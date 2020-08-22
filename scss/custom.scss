@@ -1,7 +1,7 @@
 body {
    
     font-family: "Raleway", sans-serif;
-    background: pink;
+    
 }
 
 .navbar {
@@ -65,7 +65,11 @@ body {
     #showcase {
         min-height: 350px;
         h1 {
-            font-size: 4rem;
+            font-size: 3rem;
+        }
+        #book {
+            font-size: 1rem;
+            padding: 2px ;
         }
     }
    
